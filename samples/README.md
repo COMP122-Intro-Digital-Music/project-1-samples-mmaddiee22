@@ -1,3 +1,10 @@
-# Samples folder
-
-upload your samples to this folder
+{"H3H3"
+"sample/H3H31.mp3"
+"120"
+"2m"}
+{"H3H3"
+"sample/H3H32.mp3"
+"120"
+"2m}
+{"H3H3"
+"sample/H3H33.mp3}
